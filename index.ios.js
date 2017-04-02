@@ -1,4 +1,4 @@
 import { AppRegistry } from 'react-native';
-import { Home } from './libs/home.js';
+import { Home, App } from './libs/home.js';
 
-AppRegistry.registerComponent('materialReact', () => Home);
+AppRegistry.registerComponent('materialReact', () => App);
